@@ -7,3 +7,11 @@
 
 
 ![Image of Github](https://github.com/alexGalvan0/introduction-to-github/blob/main/roman-synkevych-wX2L8L-fGeA-unsplash.jpg)
+
+
+```
+def sum(a,b):
+  return a + b
+  
+sum(1,2)
+```
