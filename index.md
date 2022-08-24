@@ -15,3 +15,7 @@ def sum(a,b):
   
 sum(1,2)
 ```
+
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
